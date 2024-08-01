@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ARITRA740/ARITRA740/blob/main/channels4_banner.jpg)
 <h1 align="center">Hi 👋, I'm ARITRA MONDAL</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
